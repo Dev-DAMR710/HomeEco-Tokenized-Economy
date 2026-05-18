@@ -47,7 +47,7 @@ classDiagram
     Volador <|.. Pajaro
     Volador <|.. Avion
 ```
-*Referencia: Ejercicios prácticos de la Universidad de Manizales sobre pilares de la POO.*
+*Referencia: Ejercicio 1 Taller practico, sobre pilares de la POO.*
 
 ### 2. Diagrama de Clases: HomeEco Core (POO Avanzada)
 Este es el diseño principal de la aplicación actual. Implementa patrones de diseño para gestionar una economía de suma cero.
